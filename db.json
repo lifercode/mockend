@@ -1,0 +1,100 @@
+{
+  "cards": [
+    {
+      "id": "271fe36c-dfb5-476a-bec5-88849449e3e9",    
+      "data-emissao": "2022-06-21",  
+      "data-manifestacao": "2022-06-25",
+      "data-manifestacao-realizada": null,
+      "processo": {
+        "identificador": "2022052718120001",        
+        "defensor": "Amilton",
+        "parte-ativa": "Agatha Drumond",
+        "parte-passiva": "Larissa Valentina"
+      }
+    },
+    {
+      "id": "ae04f61c-3359-4c91-983e-1fc51071a736",
+      "data-emissao": "2022-06-21",
+      "data-manifestacao": "2022-06-26",
+      "data-manifestacao-realizada": null,
+      "processo": {
+        "identificador": "2022052718120002",        
+        "defensor": "Amilton",
+        "parte-ativa": "Bianca Baptista",
+        "parte-passiva": "Simone Esther"
+      }
+    },
+    {
+      "id": "7c5796e3-df8b-4c3e-9dc8-721b4dedd4d4",
+      "data-emissao": "2022-06-21",
+      "data-manifestacao": "2022-06-25",
+      "data-manifestacao-realizada": null,
+      "processo": {
+        "identificador": "2022052718120003",        
+        "defensor": "Mariana",
+        "parte-ativa": "Daniela Tereza",
+        "parte-passiva": "Fernando Enzo"
+      }
+    },
+    {
+      "id": "4091b67c-206d-4035-a9a0-f543d971776b",
+      "data-emissao": "2022-06-20",
+      "data-manifestacao": "2022-06-27",
+      "data-manifestacao-realizada": null,
+      "processo": {
+        "identificador": "2022052718120004",        
+        "defensor": "Amilton",
+        "parte-ativa": "Diego Monteiro",
+        "parte-passiva": "Hugo Fernandes"
+      }
+    },
+    {
+      "id": "8bbb514c-0f74-4276-9f42-2d6c148ac89c",
+      "data-emissao": "2022-06-20",
+      "data-manifestacao": "2022-06-25",
+      "data-manifestacao-realizada": null,
+      "processo": {
+        "identificador": "2022052718120005",        
+        "defensor": "Vanessa",
+        "parte-ativa": "Mariane Rocha",
+        "parte-passiva": "Luan Jesus"
+      }
+    },
+    {
+      "id": "b6342c7d-30a5-4f6f-b03e-20b733b16457",
+      "data-emissao": "2022-05-30",
+      "data-manifestacao": "2022-06-28",
+      "data-manifestacao-realizada": null,
+      "processo": {
+        "identificador": "2022052718120006",        
+        "defensor": "Vanessa",
+        "parte-ativa": "Heloisa Porto",
+        "parte-passiva": "Elza Melo"
+      }
+    },
+    {
+      "id": "b6342c7d-30a5-4f6f-b03e-20b733b16455",
+      "data-emissao": "2022-05-30",
+      "data-manifestacao": "2022-06-21",
+      "data-manifestacao-realizada": null,
+      "processo": {
+        "identificador": "2022052718120008",        
+        "defensor": "Vanessa",
+        "parte-ativa": "Luís Cardoso",
+        "parte-passiva": "Isabel Rebeca"
+      }
+    }
+  ],
+  "defensores": [
+    {
+      "nome": "Amilton"
+    },
+    {
+      "nome": "Mariana"
+    },
+    {
+      "nome": "Vanessa"
+    }
+  ]
+}
+

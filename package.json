@@ -1,0 +1,12 @@
+{
+  "name": "defensoria-teste-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn json-server db.json --watch -p 3001"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
